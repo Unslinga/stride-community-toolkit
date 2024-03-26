@@ -41,6 +41,8 @@
       href: code-only/examples/capsule-with-rigid-body-vb.md
   - name: Extensions
     href: code-only/extensions.md
+- name: Project Sample
+  href: project-sample/index.md
 - name: Animation Extensions
   href: animation-extensions/index.md
 - name: Camera Extensions
